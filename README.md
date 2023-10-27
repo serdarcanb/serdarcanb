@@ -20,4 +20,5 @@ src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="d
 
 <a href="https://www.linkedin.com/in/serdarcan-b%C3%BCy%C3%BCkdereli/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="serdarcan-b%C3%BCy%C3%BCkdereli" /></a>
 
-<a href="https://medium.com/@serdarcanbuyukdereli" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:2400/1*6_fgYnisCa9V21mymySIvA.png" alt="serdarcan-b%C3%BCy%C3%BCkdereli" /></a>
+https://medium.com/@serdarcanbuyukdereli
+serdarcanbuyukdereli@gmail.com
