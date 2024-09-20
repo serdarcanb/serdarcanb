@@ -22,7 +22,7 @@
 - 💬 Ask me about: **DevOps Best Practices**
 - ⚡ Fun fact: **When I’m not building scalable systems, you’ll find me behind a drum kit, working on my groove!**
 - 📂 Portfolio: **<a href="https://serdarcanb.github.io" target="_blank">serdarcanb.github.io</a>**
-- 📝 Blog: **<a href="https://medium.com/@serdarcanbuyukdereli" target="_blank">https://medium.com/@serdarcanbuyukdereli</a>**
+- 📝 Blog: **<a href="https://medium.com/@serdarcanbuyukdereli" target="_blank">@serdarcanbuyukdereli</a>**
 
 
  **<h3 align="center">Skills</h3>**
