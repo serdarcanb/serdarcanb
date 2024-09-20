@@ -5,7 +5,14 @@
 
 **<h3 align="left">Connect with me:</h3>**               
 
-<p align="left"><a href="serdarcanbuyukdereli@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/serdarcanbuyukdereli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left">
+  <a href="mailto:serdarcanbuyukdereli@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" style="margin-right: 4px">
+  </a> 
+  <a href="https://www.linkedin.com/in/serdarcanbuyukdereli/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+</p>
 
  **<h3 align="left">🚀 As a passionate Senior DevOps Engineer, I build scalable and reliable infrastructures. I’m an expert in automation, cloud solutions, and continuous improvement. I develop systems that help teams work more efficiently and ensure smooth operations on both the software and operational sides. Performance optimization and security are always my top priorities.</h3>**
 
