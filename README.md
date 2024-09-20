@@ -1,24 +1,22 @@
-### Hi there, I'm Serdarcan 👋 ![](https://komarev.com/ghpvc/?username=serdarcanb&color=blue&&style=flat)
+![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+
+![Profile views](https://komarev.com/ghpvc/?username=serdarcanb&label=Profile%20views&color=0e75b6&style=flat)
+
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="serdarcanbuyukdereli@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/serdarcanbuyukdereli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
+ **<h3 align="left">🚀 As a passionate Senior DevOps Engineer, I build scalable and reliable infrastructures. I’m an expert in automation, cloud solutions, and continuous improvement. I develop systems that help teams work more efficiently and ensure smooth operations on both the software and operational sides. Performance optimization and security are always my top priorities.</h3>**
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 💼 I'm currently working on: **Developing our new deployment architecture, focusing on 12 key areas to enhance scalability, automation, and reliability.**
+- 💬 Ask me about: **DevOps Best Practices**
+- ⚡ Fun fact: **When I’m not building scalable systems, you’ll find me behind a drum kit, working on my groove!**
+- 📂 Portfolio: **<a href="serdarcanb.github.io" target="_blank">serdarcanb.github.io</a>**
+- 📝 Blog: **<a href="https://medium.com/@serdarcanbuyukdereli" target="_blank">https://medium.com/@serdarcanbuyukdereli</a>**
 
 
-- 🔭 Senior DevOps Engineer at arabam.com
+ **<h3 align="center">Skills</h3>**
 
+<p align="center"><img src="https://skillicons.dev/icons?i=python" height="28" alt="Python" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=javascript" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=bash" height="28" alt="Bash" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=kubernetes" height="28" alt="Kubernetes" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=docker" height="28" alt="Docker" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=aws" height="28" alt="AWS" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=gcp" height="28" alt="GCP" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=gitlab" height="28" alt="GitLab CI" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=ansible" height="28" alt="Ansible" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=terraform" height="28" alt="Terraform" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=githubactions" height="28" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=jenkins" height="28" alt="Jenkins" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=sentry" height="28" alt="Sentry" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vscode" height="28" alt="VSCode" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=notion" height="28" alt="Notion" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=kafka" height="28" alt="Kafka" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/terraform/623CE4" height="28" alt="Terraform" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/github/181717" height="28" alt="GitHub" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/git/F1502F" height="28" alt="Git" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=flask" height="28" alt="Flask" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=postgresql" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=mysql" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=mongodb" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=redis" height="28" alt="Redis" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=elasticsearch" height="28" alt="Elasticsearch" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="28" alt="Nginx" style="margin-right: 4px"> <img src="https://cdn.simpleicons.org/ifttt/7C7C7C" height="28" alt="IFTTT" style="margin-right: 4px"></p>
 
-### Languages and Tools
-<p align="left"><img src="https://github.com/github/explore/raw/main/topics/aws/aws.png" alt="aws" width="50" height="50"/> <img src="https://github.com/github/explore/raw/main/topics/bash/bash.png" alt="bash" width="50" height="50"/> <img
-src="https://github.com/github/explore/raw/main/topics/python/python.png" alt="python" width="50" height="50"/> <img
-src="https://github.com/github/explore/raw/main/topics/docker/docker.png" alt="docker" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> <img src="https://github.com/github/explore/raw/main/topics/go/go.png" alt="go" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/> <img src="https://github.com/github/explore/raw/main/topics/linux/linux.png" alt="linux" width="50" height="50"/> <img src="https://camo.githubusercontent.com/d13e208052a3e9d83243cd804635e60e4a238c43a86ce1bc6aea249c39c67709/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7465727261666f726d696f2f7465727261666f726d696f2d617232312e737667" alt="terraform" width="100" height="40"/> <img   
-</p>
-  
-### Github Statistics
-<p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=serdarcanb&show_icons=true&theme=radical" alt="serdarcanb" width="400" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdarcanb&layout=compact&hide=html&theme=radical" width="350" height="170"" alt="serdarcanb"/>
-</p>
-
-### 📫 How to reach me:
-
-<a href="https://www.linkedin.com/in/serdarcan-b%C3%BCy%C3%BCkdereli/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="serdarcan-b%C3%BCy%C3%BCkdereli" /></a>
-
-https://medium.com/@serdarcanbuyukdereli
-serdarcanbuyukdereli@gmail.com
