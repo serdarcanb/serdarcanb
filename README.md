@@ -1,9 +1,9 @@
 ![](https://www.notion.so/serdarcanb/My-Life-3fe1edcb1196478c8eda02485bcd066c?pvs=4#1072f7d5afa28038a131c203b76cd6a6)
 
-![Profile views](https://komarev.com/ghpvc/?username=serdarcanb&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://file.notion.so/f/f/7b772267-6381-4aed-adbb-240df7998f7d/2221c4bc-1fb9-40c1-b83b-3086b4f42633/Github_Profile_Header.png?table=block&id=1072f7d5-afa2-8064-90ca-e85cd07a0213&spaceId=7b772267-6381-4aed-adbb-240df7998f7d&expirationTimestamp=1726941600000&signature=Wb0MeO5aFUSCpHyu69FGSuFmLCHVkOEvPqyt9Xjv2V0&downloadName=Github+Profile+Header.png)
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="serdarcanbuyukdereli@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/serdarcanbuyukdereli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="serdarcanbuyukdereli@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/serdarcanbuyukdereli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 As a passionate Senior DevOps Engineer, I build scalable and reliable infrastructures. I’m an expert in automation, cloud solutions, and continuous improvement. I develop systems that help teams work more efficiently and ensure smooth operations on both the software and operational sides. Performance optimization and security are always my top priorities.</h3>**
 
@@ -12,7 +12,7 @@
 - 💼 I'm currently working on: **Developing our new deployment architecture, focusing on 12 key areas to enhance scalability, automation, and reliability.**
 - 💬 Ask me about: **DevOps Best Practices**
 - ⚡ Fun fact: **When I’m not building scalable systems, you’ll find me behind a drum kit, working on my groove!**
-- 📂 Portfolio: **<a href="serdarcanb.github.io" target="_blank">serdarcanb.github.io</a>**
+- 📂 Portfolio: **<a href="https://serdarcanb.github.io" target="_blank">serdarcanb.github.io</a>**
 - 📝 Blog: **<a href="https://medium.com/@serdarcanbuyukdereli" target="_blank">https://medium.com/@serdarcanbuyukdereli</a>**
 
 
