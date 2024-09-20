@@ -1,4 +1,4 @@
-![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![](https://www.notion.so/serdarcanb/My-Life-3fe1edcb1196478c8eda02485bcd066c?pvs=4#1072f7d5afa28038a131c203b76cd6a6)
 
 ![Profile views](https://komarev.com/ghpvc/?username=serdarcanb&label=Profile%20views&color=0e75b6&style=flat)
 
