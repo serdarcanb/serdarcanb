@@ -2,6 +2,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=serdarcanb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 **<h3 align="left">Connect with me:</h3>**               
 
 <p align="left"><a href="serdarcanbuyukdereli@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/serdarcanbuyukdereli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
