@@ -1,4 +1,4 @@
-![](https://file.notion.so/f/f/7b772267-6381-4aed-adbb-240df7998f7d/2221c4bc-1fb9-40c1-b83b-3086b4f42633/Github_Profile_Header.png?table=block&id=1072f7d5-afa2-8064-90ca-e85cd07a0213&spaceId=7b772267-6381-4aed-adbb-240df7998f7d&expirationTimestamp=1726941600000&signature=Wb0MeO5aFUSCpHyu69FGSuFmLCHVkOEvPqyt9Xjv2V0&downloadName=Github+Profile+Header.png)
+![](https://serdarcanb.github.io/assets/images/Github-Profile-Header.png)
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=serdarcanb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
