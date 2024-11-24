@@ -1,7 +1,7 @@
 
 <div style="text-align: center;">
   <a href="https://app.daily.dev/serdarbuyukdereli">
-    <img src="https://api.daily.dev/devcards/v2/Su5HqluAE4wLRb1naHjtv.png?type=wide&r=7sp" width="700" alt="Serdarcan Buyukdereli's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/Su5HqluAE4wLRb1naHjtv.png?type=wide&r=7sp" width="900" alt="Serdarcan Buyukdereli's Dev Card"/>
   </a>
 </div>
 <div align="center">
