@@ -26,8 +26,8 @@
 - 💼 I'm currently working on: **Developing our new deployment architecture, focusing on the 12-factor methodology to improve scalability, automation, and reliability.**
 - 💬 Ask me about: **DevOps Best Practices**
 - ⚡ Fun fact: **When I’m not building scalable systems, you’ll find me behind a drum kit, working on my groove!**
-- 📂 Portfolio: **<a href="https://portfolio.serdarcanb.dev" target="_blank">portfolio.serdarcanb.dev</a>**
-- 📝 Blog: **<a href="https://blog.serdarcanb.dev" target="_blank">blog.serdarcanb.dev</a>**
+- 📂 Portfolio: **<a href="https://serdarcanb.github.io" target="_blank">serdarcanb.github.io</a>**
+- 📝 Blog: **<a href="https://theinfinity.dev" target="_blank">www.theinfinity.dev</a>**
 
 
 
